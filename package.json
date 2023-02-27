@@ -1,6 +1,6 @@
 {
   "name": "capacitor-plugin-printer",
-  "version": "0.0.1",
+  "version": "2.6.0",
   "description": "Printer Plugin for Citaq H10-2",
   "main": "dist/plugin.cjs.js",
   "module": "dist/esm/index.js",
@@ -41,7 +41,8 @@
     "build": "npm run clean && npm run docgen && tsc && rollup -c rollup.config.js",
     "clean": "rimraf ./dist",
     "watch": "tsc --watch",
-    "prepublishOnly": "npm run build"
+    "prepublishOnly": "npm run build",
+    "version": "npm-version patch -m 'Version %s'"
   },
   "devDependencies": {
     "@capacitor/android": "^4.0.0",

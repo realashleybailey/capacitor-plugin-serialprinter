@@ -48,6 +48,7 @@ repositories {
 
 
 dependencies {
+    implementation 'com.google.zxing:core:3.4.1'
     implementation fileTree(dir: 'libs', include: ['*.jar'])
     implementation project(':capacitor-android')
     implementation "androidx.appcompat:appcompat:$androidxAppCompatVersion"
