@@ -1,6 +1,9 @@
 # capacitor-plugin-printer
 
-Printer Plugin for Citaq H10-2
+Printer Plugin for Citaq H10
+
+This plugin is used to print text, barcode, qrcode, image on Citaq H10 printer. It may also work on other printers that support ESC/POS commands.
+You can specify the port to connect to the printer. If you don't specify the port, the plugin will try to connect to /dev/ttyS1.
 
 ## Install
 
