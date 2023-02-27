@@ -3,7 +3,12 @@
 Printer Plugin for Citaq H10
 
 This plugin is used to print text, barcode, qrcode, image on Citaq H10 printer. It may also work on other printers that support ESC/POS commands.
+<br>
 You can specify the port to connect to the printer. If you don't specify the port, the plugin will try to connect to /dev/ttyS1.
+<br>
+Please bare in mind that this plugin may be unstable. There are a few unhandled exceptions that may cause the app to crash. I will try to fix them in the future. For best stability, please follow the typescript definitions.
+<br>
+This will only work on Android. It was not developed for iOS or the web as these platforms do not support serial ports.
 
 ## Install
 
