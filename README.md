@@ -1,4 +1,4 @@
-# capacitor-plugin-printer
+# capacitor-plugin-serialprinter
 
 Printer Plugin for Citaq H10
 

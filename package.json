@@ -1,6 +1,6 @@
 {
-  "name": "capacitor-plugin-printer",
-  "version": "2.6.0",
+  "name": "capacitor-plugin-serialprinter",
+  "version": "2.7.0",
   "description": "Printer Plugin for Citaq H10-2",
   "main": "dist/plugin.cjs.js",
   "module": "dist/esm/index.js",
@@ -17,10 +17,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/realashleybailey/capacitor-plugin-printer.git"
+    "url": "git+https://github.com/realashleybailey/capacitor-plugin-serialprinter.git"
   },
   "bugs": {
-    "url": "https://github.com/realashleybailey/capacitor-plugin-printer/issues"
+    "url": "https://github.com/realashleybailey/capacitor-plugin-serialprinter/issues"
   },
   "keywords": [
     "capacitor",
