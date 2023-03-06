@@ -1,6 +1,6 @@
 {
   "name": "capacitor-plugin-serialprinter",
-  "version": "2.7.2",
+  "version": "2.7.3",
   "description": "Printer Plugin for Citaq H10-2",
   "main": "dist/plugin.cjs.js",
   "module": "dist/esm/index.js",
