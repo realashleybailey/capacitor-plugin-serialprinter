@@ -1,6 +1,6 @@
 {
   "name": "capacitor-plugin-serialprinter",
-  "version": "2.7.1",
+  "version": "2.7.2",
   "description": "Printer Plugin for Citaq H10-2",
   "main": "dist/plugin.cjs.js",
   "module": "dist/esm/index.js",
@@ -11,7 +11,7 @@
     "android/build.gradle",
     "dist/",
     "ios/Plugin/",
-    "CapacitorPluginPrinter.podspec"
+    "CapacitorPluginSerialprinter.podspec"
   ],
   "author": "Ashley Bailey",
   "license": "MIT",
